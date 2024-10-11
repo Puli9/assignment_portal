@@ -143,7 +143,7 @@ You can use Postman to test the API endpoints. Here are the steps:
      - **Status Code**: `201 Created`
      - **Response**:
        ```json
-       { message: 'Registration successful'}
+       { "message": "Registration successful"}
        ```
 
 ### 2. User Login
@@ -205,7 +205,7 @@ You can use Postman to test the API endpoints. Here are the steps:
      - **Status Code**: `201 Created`
      - **Response**:
        ```json
-       { message: 'Registration successful'}
+       { "message": "Registration successful"}
        ```
 
 ### 5. Admin Login
